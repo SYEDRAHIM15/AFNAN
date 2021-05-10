@@ -253,8 +253,8 @@ _________¶¶
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "AFNAN
-CorrectPassword = "AFNAN"
+CorrectUsername = "pakistan"
+CorrectPassword = "pakistan"
 
 loop = 'true'
 while (loop == 'true'):
